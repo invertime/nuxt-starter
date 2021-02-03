@@ -1,0 +1,2 @@
+# nuxt-starter
+static portfolio
